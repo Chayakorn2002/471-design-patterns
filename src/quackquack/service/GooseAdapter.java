@@ -1,7 +1,7 @@
-package adapter_pattern.service;
+package quackquack.service;
 
-import adapter_pattern.Goose;
-import adapter_pattern.Quackable;
+import quackquack.Goose;
+import quackquack.Quackable;
 
 public class GooseAdapter implements Quackable {
     Goose goose;

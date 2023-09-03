@@ -1,7 +1,7 @@
-package adapter_pattern.service;
+package quackquack.service;
 
-import adapter_pattern.Pigeon;
-import adapter_pattern.Quackable;
+import quackquack.Pigeon;
+import quackquack.Quackable;
 
 public class PigeonAdapter implements Quackable {
     private Pigeon pigeon;

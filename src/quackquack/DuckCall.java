@@ -1,4 +1,4 @@
-package adapter_pattern;
+package quackquack;
 
 public class DuckCall implements Quackable {
     public void quack() {

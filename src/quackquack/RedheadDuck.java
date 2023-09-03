@@ -1,9 +1,9 @@
-package adapter_pattern;
+package quackquack;
 
-public class MallardDuck implements Quackable {
-
+public class RedheadDuck implements Quackable {
     @Override
     public void quack() {
         System.out.println("Quack");
     }
 }
+

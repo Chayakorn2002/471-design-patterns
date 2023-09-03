@@ -1,6 +1,6 @@
-package adapter_pattern.factory;
+package quackquack.factory;
 
-import adapter_pattern.*;
+import quackquack.*;
 
 public class DuckFactory extends AbstractDuckFactory {
 

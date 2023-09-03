@@ -1,6 +1,6 @@
-package adapter_pattern.factory;
+package quackquack.factory;
 
-import adapter_pattern.Quackable;
+import quackquack.Quackable;
 
 public abstract class AbstractDuckFactory {
     public abstract Quackable createMallardDuck();

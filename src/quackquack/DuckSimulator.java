@@ -1,10 +1,9 @@
-package adapter_pattern;
+package quackquack;
 
-import adapter_pattern.factory.AbstractDuckFactory;
-import adapter_pattern.factory.CountingDuckFactory;
-import adapter_pattern.factory.CountingEchoingDuckFactory;
-import adapter_pattern.service.GooseAdapter;
-import adapter_pattern.service.PigeonAdapter;
+import quackquack.factory.AbstractDuckFactory;
+import quackquack.factory.CountingEchoingDuckFactory;
+import quackquack.service.GooseAdapter;
+import quackquack.service.PigeonAdapter;
 
 public class DuckSimulator {
     public static void main(String[] args) {
